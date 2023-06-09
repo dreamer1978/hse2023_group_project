@@ -1,9 +1,9 @@
 # Групповой проект - DNA modification
-Вводная презентация
+[Вводная презентация](https://github.com/missaline/hse23_group_project/blob/main/data/Вводная.pdf)
 
-Финальная презентация 
+[Финальная презентация](https://github.com/missaline/hse23_group_project/blob/main/data/Финальная.pdf) 
 
-Код для создания общей тепловой карты:
+## Код для создания общей тепловой карты:
 ```
 # "human", "mouse", "zebrafish", "drosophila", "c.elegans", "ciliate", "yeast", "methanocaldococcus", "thermococcus", "e.coli", "tuberculosis"
 
